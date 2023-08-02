@@ -14,7 +14,6 @@ public class Lab {
      * to the method. You can also try experimenting with the following guesses, as one of them will be the correct 
      * answer. Please note that many of these will not compile, as evidenced by a "red line" under your code.
      *
-     * return "hello"; | return String "hello";
      * return hello;   | return String hello;
      * return "polly"; | return String "polly";
      * return polly;   | return String polly;
@@ -26,6 +25,7 @@ public class Lab {
      * @return text.
      */
     public String copy(String text){
+        
         return text;
     }
 }
